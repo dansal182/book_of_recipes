@@ -4,3 +4,6 @@
 * [Guacamole](guacamole.md)
 
 ## Hot sauces
+
+* Salsa [salsa.md]
+
